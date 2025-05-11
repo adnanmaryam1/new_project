@@ -17,6 +17,4 @@ public class DriverManager {
     public void closeDriver() {
         this.driver.close();
     }
-
-
 }

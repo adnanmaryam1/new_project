@@ -8,7 +8,6 @@ import java.time.Duration;
 
 public class SearchPageObject {
     private driver.DriverManager driverManager = new driver.DriverManager();
-
     private By acceptAll = By.cssSelector("#L2AGLb");
     private By searchBar = By.cssSelector("#APjFqb");
     private By googleSearchButton = By.cssSelector(".FPdoLc.lJ9FBc .gNO89b");
